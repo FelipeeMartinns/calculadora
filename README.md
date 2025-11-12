@@ -1,2 +1,5 @@
 # calculadora
-calculadora bem simples feita em python
+calculadora usando :
+-python3.
+-programação orientada a objeto.
+-tkinter.
